@@ -8,11 +8,8 @@ const Header = props => (
       <img src={logo} alt="" />
     </span>
     <h1>K.S. Institute</h1>
-    <p>
-      We Teach To Communicate
-      <br />
-      The best english classes in Pune.
-    </p>
+    <p style={{ marginBottom: 0 }}>We Teach To Communicate</p>
+    <p>The best english classes in Pune.</p>
   </header>
 )
 
