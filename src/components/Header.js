@@ -7,9 +7,15 @@ const Header = props => (
     <span className="logo ">
       <img src={logo} alt="" />
     </span>
-    <h1>K.S. Institute</h1>
-    <p style={{ marginBottom: 0 }}>We Teach To Communicate</p>
-    <p>The best english classes in Pune.</p>
+    <h1>
+      <strong>K.S. INSTITUTE</strong>
+    </h1>
+    <p style={{ marginBottom: 0 }}>
+      <strong>We Teach To Communicate</strong>
+    </p>
+    <p>
+      <strong>The best english classes in Pune.</strong>
+    </p>
   </header>
 )
 

@@ -46,7 +46,7 @@ class Index extends React.Component {
                   <h2>Who we are</h2>
                 </header>
                 <p>
-                  ✻ Founded in the year 2005, Ks Institute is an institute that
+                  Founded in the year 2005, Ks Institute is an institute that
                   aids in the development and refinement of one's English
                   communication skills. This establishment was built with an aim
                   to become one of the best language training institutes in the
@@ -62,7 +62,7 @@ class Index extends React.Component {
                   their quality teaching methods that help them understand the
                   specific requirements of every learner at their institute.
                   Undoubtedly it is one of the best language class for English
-                  in Pune. ✻
+                  in Pune.
                 </p>
               </div>
               <span className="image">
@@ -86,7 +86,7 @@ class Index extends React.Component {
                     alt="img"
                     width="150px"
                     height="150px"
-                    style={{ borderRadius: '50%' }}
+                    style={{ borderRadius: '50%', objectFit: 'cover' }}
                   ></img>
                 </span>
                 <h3>Gagan Daga</h3>
