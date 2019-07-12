@@ -19,17 +19,18 @@ const Nav = props => (
       <li>
         <Scroll type="id" element="first">
           <a href="#">
-            <strong>Our Team</strong>
+            <strong>Our Services</strong>
           </a>
         </Scroll>
       </li>
       <li>
         <Scroll type="id" element="second">
           <a href="#">
-            <strong>Our Services</strong>
+            <strong>Our Team</strong>
           </a>
         </Scroll>
       </li>
+
       <li>
         <Scroll type="id" element="cta">
           <a href="#">

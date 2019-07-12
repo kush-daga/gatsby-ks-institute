@@ -73,49 +73,19 @@ class Index extends React.Component {
 
           <section id="first" className="main special">
             <header className="major">
-              <h2>Our Team</h2>
-            </header>
-            <ul className="features">
-              <li>
-                <span
-                  className="icon major style1 image"
-                  style={{ border: 'none' }}
-                >
-                  <img
-                    src={mompic}
-                    alt="img"
-                    width="150px"
-                    height="150px"
-                    style={{ borderRadius: '50%', objectFit: 'cover' }}
-                  ></img>
-                </span>
-                <h3>Gagan Daga</h3>
-                <h5>Center Director and Instructor</h5>
-                <p>
-                  With over 15 years of experience in traning English and its
-                  nuances to students, Gagan is the best tutor you can find when
-                  it comes to PTE, IELTS, Spoken English, etc. She has been
-                  trained officialy to give IELTS and PTE coaching and has an
-                  experience of teaching Spoken English even to Italians! She is
-                  experienced in teaching people with very less knowledge of the
-                  language, people who have not studied in English medium and
-                  corporates who are looking to improve the way they talk to
-                  thier clients
-                </p>
-              </li>
-            </ul>
-            <footer className="major"></footer>
-          </section>
-
-          <section id="second" className="main special">
-            <header className="major">
               <h2>Our Services</h2>
               <p>
-                We promise you new confidence and more importantly, a new
+                {/* We promise you new confidence and more importantly, a new
                 attitude. We do that by getting to know you, your needs, In the
-                end helping you to build your language perfectly. We provide
-                both offline and online batches, book a counselling to know
-                more.
+                end helping you to build your language perfectly.
+                <br></br> */}
+                We understand your requirements and try to fulfill them by not
+                only giving you the right guidance but also mentoring you to
+                achieve your goals, overall making your language reach new
+                heights of perfection.
+                <br />
+                We provide both <strong>offline and online </strong>batches,
+                book a counselling to know more.
               </p>
             </header>
             <ul className="statistics">
@@ -153,6 +123,41 @@ class Index extends React.Component {
                 </li>
               </ul>
             </footer>
+          </section>
+          <section id="second" className="main special">
+            <header className="major">
+              <h2>Our Team</h2>
+            </header>
+            <ul className="features">
+              <li>
+                <span
+                  className="icon major style1 image"
+                  style={{ border: 'none' }}
+                >
+                  <img
+                    src={mompic}
+                    alt="img"
+                    width="150px"
+                    height="150px"
+                    style={{ borderRadius: '50%', objectFit: 'cover' }}
+                  ></img>
+                </span>
+                <h3>Gagan Daga</h3>
+                <h5>Center Director and Instructor</h5>
+                <p>
+                  With over 15 years of experience in traning English and its
+                  nuances to students, Gagan is the best tutor you can find when
+                  it comes to PTE, IELTS, Spoken English, etc. She has been
+                  trained officialy to give IELTS and PTE coaching and has an
+                  experience of teaching Spoken English even to Italians! She is
+                  experienced in teaching people with very less knowledge of the
+                  language, people who have not studied in English medium and
+                  corporates who are looking to improve the way they talk to
+                  thier clients
+                </p>
+              </li>
+            </ul>
+            <footer className="major"></footer>
           </section>
 
           <section id="cta" className="main special">

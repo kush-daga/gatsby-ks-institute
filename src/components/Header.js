@@ -14,7 +14,7 @@ const Header = props => (
       <strong>We Teach To Communicate</strong>
     </p>
     <p>
-      <strong>The best english classes in Pune.</strong>
+      <strong>The best English classes in Pune.</strong>
     </p>
   </header>
 )
