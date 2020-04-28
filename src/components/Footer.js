@@ -30,8 +30,7 @@ const Footer = props => (
         </dd>
         <dd>
           {' '}
-          E 1502, Mystic, Megapolis &bull; Hinjewadi, Pune, Maharashtra 411057
-          &bull; India
+        Shop no 10, Krishna Market, megapolis circle Hinjewadi phase 3
         </dd>
         <dt>Phone</dt>
         <dd>9823397800, 9823833280</dd>
