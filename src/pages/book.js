@@ -16,7 +16,7 @@ class Book extends React.Component {
             <h2>How to book?</h2>
             <p>
               To book a counselling please contact us on{' '}
-              <strong>9823397800, 9871817800</strong> also it would be
+              <strong>9823397800</strong> also it would be
               recommended that you fill out the{' '}
               <span>
                 <a target="_blank" href="https://bit.ly/ksinstitute">
