@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'KS INSTITUTE',
-    author: 'Kush Daga',
-    description: 'We Teach To Communicate',
+    title: 'KS INSTITUTE - Spoken english classes in Pune. IELTS, PTE, TOEFL',
+    author: 'Gagan Daga',
+    description: 'Best IELTS, PTE, spoken english classes in Pune. We offer english tuitions,competitive exams coaching including Ielts Pte Toefl and more! ',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
