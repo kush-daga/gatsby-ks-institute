@@ -28,8 +28,9 @@ class Index extends React.Component {
   render() {
     return (
       <Layout>
-        <Helmet title="K.S. INSTITUTE" />
-
+        <Helmet title="K.S. INSTITUTE">
+            <meta name="description" content="We offer Spoken English, IELTS, PTE classes for everyone. Book a counselling now to improve your spoken english or ace the IELTS/PTE Examinations." />
+        </Helmet>
         <Header />
 
         <Waypoint
